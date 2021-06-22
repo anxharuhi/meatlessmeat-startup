@@ -1,2 +1,8 @@
 # meatlessmeat-startup
- Basic website that I used to toy a bit with bootstrap
+[https://llomellamomario.github.io/meatlessmeat-startup/](https://llomellamomario.github.io/meatlessmeat-startup/)
+
+ Basic website that I used to toy a bit with bootstrap. Project basis comes from Andrei's Zero to Mastery Complete Web Developer course. It felt a bit underwhelming,  I extended it a bit by playing with the basic concept around, though not a whole lot. All in all I'm quite pleased.accordion-body
+ 
+ There is a know "bug" in the code. I was not able to make the Youtube video responsive. I've tried what was indicated in Bootstrap docs, wrapping the embed, and giving both the wrapper and the embed itself the appropiate bootstrap classes without having either width or height elements, but no dice. After trying to find an answer, I wasn't able to. Nor after spending 2-3 weeks trying to find why with the dev tools and trying more than a few things from diverse places on the internet (stackoverflow anyone?) I wasn't able to pinpoint the cause. One of the downfalls of being inexperienced I guess. since it wasn't working I had to add eyeballed width and height values.
+ 
+ If the page feels rushed towards the end, this was probably it. I was getting increasingly tired of running against a wall with this. That started to bore my brain to death, and that meant that I would have eventually dropped the course altogether. To prevent that, I whipped the end of it, and pushed it to Github, to have it available. 
